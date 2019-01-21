@@ -1,0 +1,27 @@
+{
+  "name": "sprint0",
+  "version": "1.0.0",
+  "description": "Testing node.js functionality",
+  "main": "js/server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node js/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-Katacka.git"
+  },
+  "keywords": [
+    "sprint0"
+  ],
+  "author": "Julian Donovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-Katacka/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-Katacka#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {}
+}
