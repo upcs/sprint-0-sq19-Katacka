@@ -5,3 +5,5 @@ function add(...args) {
     }
     return sum;
 }
+
+module.exports = add;
